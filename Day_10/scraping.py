@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://realpython.github.io/fake-jobs/"
+url = "https://pypi.org/project/duckduckgo-search/"
 
 web_page = requests.get(url)
 
