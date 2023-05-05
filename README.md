@@ -5,6 +5,10 @@
 
 
 
+### Please note that you need to download the PDF file to take the course!
+
+
+
 ## Who Is This Course For?
 
 I'm primarily doing a course for followers of my Twitter account (https://twitter.com/cyb_detective), in which I post tweets about OSINT (Open Source Intelligence). For those who are professionally involved or just interested in open data investigations and research.
