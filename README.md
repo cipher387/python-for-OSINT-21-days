@@ -5,7 +5,7 @@
 
 
 
-### Please note that you need to download the PDF file to take the course!
+### [Please note that you need to download the PDF file to take the course!](https://github.com/cipher387/python-for-OSINT-21-days/raw/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf)
 
 
 
