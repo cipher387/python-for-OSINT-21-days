@@ -1,6 +1,9 @@
 # Python for OSINT. 21 days course for beginners
 
 
+<img src="https://github.com/cipher387/python-for-OSINT-21-days/blob/main/cover.png" width="400" />
+
+
 
 ## Who Is This Course For?
 
@@ -44,6 +47,9 @@ This course is distributed completely free of charge. In the beginning I thought
 But to strengthen your discipline and motivate you to take it to the end, I recommend you make a small donation. 
 
 Free courses people often don't finish until the end, and paying will help you take learning seriously. Also, every donation will motivate me to make new OSINT courses and make them available to people all over the world.
+
+
+<img src="https://github.com/cipher387/python-for-OSINT-21-days/blob/main/map.png" width="600" />
 
 The amount of donation you determine yourself. 
 
