@@ -64,7 +64,7 @@ https://boosty.to/cyb_detective
 If for some reason you don't want to send a donation, I would still be very happy if you took this course.
 
 
-You can download book with lessons here:
+You can download book with lessons here: (Python for OSINT. 21 day course for beginners.pdf)[https://github.com/cipher387/python-for-OSINT-21-days/blob/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf]
 
 
 
