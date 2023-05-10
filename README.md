@@ -8,6 +8,9 @@
 ### [Please note that you need to download the PDF file to take the course!](https://github.com/cipher387/python-for-OSINT-21-days/raw/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf)
 
 
+Also you can use (Notion template)[https://elated-herring-608.notion.site/c3b34c75a408458e8d3cb013adeab5fd?v=de729dfd0c3c483f8b7fb708ed6a3911]
+
+
 
 ## Who Is This Course For?
 
