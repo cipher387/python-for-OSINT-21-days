@@ -1,8 +1,9 @@
-import glob, os
+import glob
+import os
 
 os.chdir("test_dir")
 
-for file in glob.glob("*.txt"): 
+for file in glob.glob("*.txt"):
 
-    with open (file) as current_file:
+    with open(file) as current_file:
         print(current_file.readlines())

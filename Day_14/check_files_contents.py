@@ -1,10 +1,11 @@
-import glob, os
+import glob
+import os
 
 os.chdir("test_dir")
 
-for file in glob.glob("*"): 
+for file in glob.glob("*"):
 
-    with open (file) as current_file:
-        current_file_content=current_file.read()
+    with open(file) as current_file:
+        current_file_content = current_file.read()
         if "2" in current_file_content:
-             print(current_file_content)
+            print(current_file_content)

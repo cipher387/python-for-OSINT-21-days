@@ -1,8 +1,6 @@
 def capitalizeAllWords(x):
-  return x.title()
+    return x.title()
 
-cities = ["new york","los angeles","chicago"]
-
-result = map(capitalizeAllWords,cities)
-
+cities = ["new york", "los angeles", "chicago"]
+result = map(capitalizeAllWords, cities)
 print(list(result))
