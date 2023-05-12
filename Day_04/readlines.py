@@ -1,5 +1,5 @@
 f = open("results.txt", "r")
 
-stringList=f.readlines()
+stringList = f.readlines()
 
 print(stringList[1])
