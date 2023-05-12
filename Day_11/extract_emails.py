@@ -1,8 +1,5 @@
 import requests
-
 import re
-
-
 
 
 url = "https://cleantalk.org/blacklists/ivanov@gmail.com"
