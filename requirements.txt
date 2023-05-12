@@ -4,6 +4,7 @@ numpy
 wayback
 requests
 streamlit
+dnspython
 XlsxWriter
 matplotlib
 python-docx
