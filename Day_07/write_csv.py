@@ -2,7 +2,7 @@ import csv
 
 csv_file = open('test.csv', 'w')
 
-writer = csv.writer(csv_file, delimiter =';')
+writer = csv.writer(csv_file, delimiter=';')
 
 header = ['Last name', 'First name', 'Age', 'Country']
 
