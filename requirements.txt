@@ -1,2 +1,11 @@
 bs4
+fpdf
+numpy
+wayback
+requests
+streamlit
+XlsxWriter
+matplotlib
+python-docx
+python-whois
 duckduckgo-search
