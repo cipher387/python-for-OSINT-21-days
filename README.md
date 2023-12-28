@@ -11,6 +11,35 @@
 Also you can use [Notion template](https://elated-herring-608.notion.site/c3b34c75a408458e8d3cb013adeab5fd?v=de729dfd0c3c483f8b7fb708ed6a3911)
 
 
+## Table of contents
+### Who Is This Course For? 
+### Who should avoid this course? 
+### How to take this course 
+### Day 0. Preparing for work 
+### Day 1. Run the first script 
+### Day 2. Minimum Basic Syntax 
+### Day 3. Install and run Python command line tools 
+### Day 4. Reading and writing files 
+### Day 5. Handling HTTP requests and working with APIs 
+### Day 6. JSON 
+### Day 7. CSV 
+### Day 8. Databases 
+### Day 9. Automate the collection of search results 
+### Day 10. Scraping 
+### Day 11. Regular expressions 
+### Day 12. Proxies 
+### Day 13. Functions for working with lists 
+### Day 14. Working with the file system 
+### Day 15. Domain information gathering 
+### Day 16. List mapping and functions for work with strings 
+### Day 17. Generating documents 
+### Day 18. Generating charts and maps 
+### Day 19. Wayback Machine and time/date functions 
+### Day 20. Web apps creation 
+### Day 21. Tools to help you work with code 
+### What to do next 
+
+
 
 ## Who Is This Course For?
 
@@ -75,6 +104,9 @@ You can download book with lessons here: [Python for OSINT. 21 day course for be
 
 
 Thank you for following me! https://cybdetective.com
+
+
+
 
 
 
