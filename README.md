@@ -112,6 +112,9 @@ If for some reason you don't want to send a donation, I would still be very happ
 You can download book with lessons here: [Python for OSINT. 21 day course for beginners.pdf](https://github.com/cipher387/python-for-OSINT-21-days/raw/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf) 
 
 
+[Linux for OSINT. 21-day course for beginners](https://github.com/cipher387/linux-for-OSINT-21-day/)
+
+
 Thank you for following me! https://cybdetective.com
 
 
