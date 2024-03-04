@@ -50,6 +50,11 @@ Also you can use [Notion template](https://elated-herring-608.notion.site/c3b34c
 
 
 
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/python_for_osint.png" width="100%" />
+
+
+
 ## Who Is This Course For?
 
 I'm primarily doing a course for followers of my Twitter account (https://twitter.com/cyb_detective), in which I post tweets about OSINT (Open Source Intelligence). For those who are professionally involved or just interested in open data investigations and research.
